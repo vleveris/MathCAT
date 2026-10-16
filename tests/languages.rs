@@ -11,6 +11,7 @@ mod Languages {
     mod ru;
     mod fi;
     mod pl;
+    mod lt;
     mod sv;
     mod pt;
     mod nb;
